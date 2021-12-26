@@ -1,0 +1,8 @@
+spring:
+  thymeleaf:
+    prefix: classpath:/static/
+    suffix: .html
+server:
+  port: 22222
+  servlet:
+    context-path: /dashboard
